@@ -1,3 +1,4 @@
+
 """Global Variables"""
 #Variables created outside the function are called global variables
 
@@ -16,11 +17,11 @@ x = "best"
 
 def function2():
    x = "game"
-   print ("pacman is "+x)
-#pacman is fun
+   print ("pacman is "+x)#Pacamn is best
+
    function2()
 
-print ("Pacman is "+x)
+print ("Pacman is "+x)#Pacman is game
 
 """The global keyword"""   
 """Normally, when you create a variable inside a function, that variable is local, and can only be used inside that function.
@@ -47,6 +48,6 @@ print (x)#This will print outer value
 
 newfunc()
 
-print ("This is "+x)   
+print ("This is "+x)   #Output will be This is inner variable
    
 """Variables can store diffrenet data type """   
