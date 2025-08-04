@@ -2,7 +2,7 @@
 
 <p1> This is the open source repository created by me for anyone who is learning python can have access to proper running code to read,study and apply in real life.</p1>
 
- <p2>I would i highly recoomend it as addiotnal tools with tutorials like code with harry on youtube , or you can use websites like geeks for geeks i myself would reccomend
+ <p2>I would  highly recoomend it as additional tools with tutorials like code with harry on youtube , or you can use websites like geeks for geeks i myself would reccomend
  and will admit i used and loved w3schools personally< and no doubt you will find the huge usage of  the same in it.</p2>
  
 ### Thank you guys  
